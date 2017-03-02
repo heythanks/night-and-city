@@ -1,1 +1,1 @@
-# night-and-city
+# night-and-city通过学习慕课网的Canvas详解课程与canvas实现星星闪烁特效课程突发奇想而得。
